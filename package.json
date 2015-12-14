@@ -1,5 +1,5 @@
 {
   "name": "jquery-formdata",
   "version": "0.0.1",
-  "main": "query.formdata.js"
+  "main": "jquery.formdata.js"
 }
