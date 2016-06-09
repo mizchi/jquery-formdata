@@ -1,5 +1,5 @@
 {
-  "name": "jquery-formdata",
+  "name": "@mizchi/jquery-formdata",
   "version": "0.0.1",
   "main": "jquery.formdata.js"
 }
